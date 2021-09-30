@@ -1,24 +1,10 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+<img src="main_image.png">
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+# 🍁 A Rails Experimental Proof Of Concept
+  - The purpose if to show certain features that are on purpose abstract or obfuscated from the general public given that plagiarism is too common on the internet.
+  
+- <h1>Instructions:- </h1> 
+  - If you fork or download this repo, you do it at your own risk.
+  - There are no guarantees or support implied. 
